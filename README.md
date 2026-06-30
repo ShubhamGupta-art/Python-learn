@@ -1,4 +1,4 @@
-# Python Crash Course - Progress Tracker
+# Python Course - Progress Tracker
 
 My progress while working through *Python Crash Course* (3rd Edition) by Eric Matthes.
 
@@ -27,9 +27,9 @@ My progress while working through *Python Crash Course* (3rd Edition) by Eric Ma
 
 ### Part I: Basics
 
-- [ ] **Chapter 01**: Getting Started
-- [ ] **Chapter 02**: Variables and Simple Data Types
-- [ ] **Chapter 03**: Introducing Lists
+- [✅] **Chapter 01**: Getting Started
+- [✅] **Chapter 02**: Variables and Simple Data Types
+- [✅] **Chapter 03**: Introducing Lists
 - [ ] **Chapter 04**: Working with Lists
 - [ ] **Chapter 05**: if Statements
 - [ ] **Chapter 06**: Dictionaries
