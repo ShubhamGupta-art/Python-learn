@@ -31,8 +31,8 @@ My progress while working through *Python Crash Course* (3rd Edition) by Eric Ma
 - ✅ **Chapter 01**: Getting Started
 - ✅ **Chapter 02**: Variables and Simple Data Types
 - ✅ **Chapter 03**: Introducing Lists
-- [ ] **Chapter 04**: Working with Lists
-- [ ] **Chapter 05**: if Statements
+- ✅ **Chapter 04**: Working with Lists
+- ✅ **Chapter 05**: if Statements
 - [ ] **Chapter 06**: Dictionaries
 - [ ] **Chapter 07**: User Input and while Loops
 - [ ] **Chapter 08**: Functions
