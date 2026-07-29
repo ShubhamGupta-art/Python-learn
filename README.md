@@ -33,8 +33,8 @@ My progress while working through *Python Crash Course* (3rd Edition) by Eric Ma
 - ✅ **Chapter 03**: Introducing Lists
 - ✅ **Chapter 04**: Working with Lists
 - ✅ **Chapter 05**: if Statements
-- [ ] **Chapter 06**: Dictionaries
-- [ ] **Chapter 07**: User Input and while Loops
+- ✅ **Chapter 06**: Dictionaries
+- ✅ **Chapter 07**: User Input and while Loops
 - [ ] **Chapter 08**: Functions
 - [ ] **Chapter 09**: Classes
 - [ ] **Chapter 10**: Files and Exceptions
